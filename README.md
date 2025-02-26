@@ -2,14 +2,14 @@
 
 > An Enthusiastic and Highly Dedicated Full-Stack Web Developer
 
-- 👨🏻‍💻 I am currently a freelancer
+- 👨🏻‍💻 I am currently a freelancer & an employee
 - 🌱 Learning and mastering all about **Web Development**
 - 💡 Ping me about `Backend` and `Frontend`
 - ❤️ I Love coding stuff
-- ✨ Fun Fact: **I really like Running**
+- ✨ Fun Fact: **I really like Running **
 
 ## 🔗 Connect Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Irfnd.iqbl/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syahrul.kurniawan.50/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syahrulkrn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syahrulkrn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahrul-kurniawan-1717a5193/)
