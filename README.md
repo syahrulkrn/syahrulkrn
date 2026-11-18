@@ -1,52 +1,126 @@
-# Hi there, I'm **Syahrul Kurniawan** 👋
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="Syahrul Kurniawan. Software Engineer. I build production web apps. From company websites to platforms used in enterprise and government, I take products from requirements to something teams can actually use. Based in Jakarta. Available for freelance." width="640">
+</picture>
 
-> An Enthusiastic and Highly Dedicated Full-Stack Web Developer
+<p>
+<a href="https://yarul.dev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/link-yarul-dark.svg">
+  <img src="./assets/link-yarul-light.svg" alt="yarul.dev" height="32">
+</picture>
+</a>
+<a href="mailto:syahrulkurniawan25@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/link-email-dark.svg">
+  <img src="./assets/link-email-light.svg" alt="Email" height="32">
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/syahrul-kurniawan-1717a5193/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/link-linkedin-dark.svg">
+  <img src="./assets/link-linkedin-light.svg" alt="LinkedIn" height="32">
+</picture>
+</a>
+<a href="https://twitter.com/syahrulkrn">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/link-x-dark.svg">
+  <img src="./assets/link-x-light.svg" alt="X" height="32">
+</picture>
+</a>
+</p>
 
-- 👨🏻‍💻 I am currently a freelancer & an employee
-- 🌱 Learning and mastering all about **Web Development**
-- 💡 Ping me about `Backend` and `Frontend`
-- ❤️ I Love coding stuff
-- ✨ Fun Fact: **I really like Running **
+<img src="./assets/spacer-32.svg" width="640" height="32" alt="">
 
-## 🔗 Connect Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syahrul.kurniawan.50/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syahrulkrn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syahrulkrn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahrul-kurniawan-1717a5193/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-now-dark.svg">
+  <img src="./assets/label-now-light.svg" alt="Now" width="640">
+</picture>
 
-## 📝 Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg">
+  <img src="./assets/now-light.svg" alt="Software Engineer at AbiShar Technologies (PT. Indo Tambangraya Megah). Available for freelance work." width="640">
+</picture>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<img src="./assets/spacer-32.svg" width="640" height="32" alt="">
 
-## 📚 Stacks
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-projects-dark.svg">
+  <img src="./assets/label-projects-light.svg" alt="Selected projects" width="640">
+</picture>
 
-### Fullstack
+<p>
+<a href="https://yarul.dev/works/asna-academy">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-asna-academy-dark.svg">
+  <img src="./assets/project-asna-academy-light.svg" alt="Asna Academy, 2026. A sports academy platform for registration, attendance, finance, and e-commerce." width="312">
+</picture>
+</a>
+<a href="https://yarul.dev/works/posind">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-pos-glid-dark.svg">
+  <img src="./assets/project-pos-glid-light.svg" alt="POS GLID, 2025. Core modules for POS Indonesia: master data, transactions, IAM, and real-time live chat." width="312">
+</picture>
+</a>
+</p>
+<p>
+<a href="https://yarul.dev/works/omahsabin">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-omah-sabin-dark.svg">
+  <img src="./assets/project-omah-sabin-light.svg" alt="Omah Sabin, 2024. Redesigned the Omah Sabin luxury villas website with Next.js, Sanity CMS, and third-party booking integration." width="312">
+</picture>
+</a>
+<a href="https://yarul.dev/works/relocation-moving">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-relocation-moving-dark.svg">
+  <img src="./assets/project-relocation-moving-light.svg" alt="Relocation Moving, 2024. Built a multilingual marketing website using Next.js and Sanity (Headless CMS)." width="312">
+</picture>
+</a>
+</p>
 
-[![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Astro JS](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)](https://astro.build/)
+<a href="https://yarul.dev">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/more-dark.svg">
+  <img src="./assets/more-light.svg" alt="More on yarul.dev" width="640">
+</picture>
+</a>
 
-### Backend
+<img src="./assets/spacer-32.svg" width="640" height="32" alt="">
 
-[![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-stack-dark.svg">
+  <img src="./assets/label-stack-light.svg" alt="Stack" width="640">
+</picture>
 
-### Frontend
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" alt="React, Next.js, TypeScript. Also Supabase, Sanity, Shopify, WordPress, Redis, and Socket.io when the project needs them." width="640">
+</picture>
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)](https://chakra-ui.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+<img src="./assets/spacer-32.svg" width="640" height="32" alt="">
 
-### Database
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-notes-dark.svg">
+  <img src="./assets/label-notes-light.svg" alt="Notes" width="640">
+</picture>
 
-[![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-
-## 📊 My Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syahrulkrn&theme=vue" style="width: 100%" />
+<a href="https://yarul.dev/notes/setup-react-guide-beginners">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/note-setup-react-dark.svg">
+  <img src="./assets/note-setup-react-light.svg" alt="How to Set Up React: A Complete Guide for Beginners, 2023" width="640">
+</picture>
+</a>
+<a href="https://yarul.dev/notes/learned-typescript-last-night">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/note-typescript-beginners-dark.svg">
+  <img src="./assets/note-typescript-beginners-light.svg" alt="TypeScript for beginners. Yes you’re right, for beginners., 2023" width="640">
+</picture>
+</a>
+<a href="https://yarul.dev/notes/the-most-progressive-student-binar">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/note-binar-dark.svg">
+  <img src="./assets/note-binar-light.svg" alt="Menjadi The Most Progressive Student di Binar Academy, 2023" width="640">
+</picture>
+</a>
+</div>
